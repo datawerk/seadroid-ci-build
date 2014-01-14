@@ -1,0 +1,19 @@
+[submodule "aFileChooser"]
+	path = aFileChooser
+	url = https://github.com/iPaulPro/aFileChooser.git
+[submodule "NewQuickAction"]
+	path = NewQuickAction
+	url = https://github.com/haiwen/NewQuickAction.git
+	branch = master
+[submodule "Android-ViewPagerIndicator"]
+	path = Android-ViewPagerIndicator
+	url = https://github.com/JakeWharton/Android-ViewPagerIndicator.git
+	branch = master
+[submodule "ActionBarSherlock-4.2.0"]
+	path = ActionBarSherlock-4.2.0
+	url = https://github.com/JakeWharton/ActionBarSherlock.git
+	branch = master
+[submodule "seadroid"]
+	path = seadroid
+	url = https://github.com/haiwen/seadroid.git
+	branch = master
