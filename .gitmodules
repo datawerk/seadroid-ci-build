@@ -15,5 +15,5 @@
 	branch = master
 [submodule "seadroid"]
 	path = seadroid
-	url = https://github.com/haiwen/seadroid.git
+url=https://github.com/DATAWERK/seadroid.git
 	branch = master
